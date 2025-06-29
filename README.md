@@ -1,1 +1,1 @@
-# pglite
+# Postgres Lite
